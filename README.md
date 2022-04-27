@@ -2,22 +2,18 @@
 
 This project was inspired by [Stepn Official Webpage](https://stepn.com/)
 
-<br>
-
 ## Demo
 
 https://stepn-frontend-demo.web.app/
+
 ![gif demo](readme-image/demo.gif?raw=true "GIF Demo")
 
-<br>
 
 ## Description
 
 Draw a html canvas on top of a background image. Erase the canvas on touch
-![effect description](readme-image/description.png?raw=true "Effect Description")
 
-<br>
-<br>
+![effect description](readme-image/description.png?raw=true "Effect Description")
 
 ### Disclaimer
 

@@ -1,0 +1,10 @@
+.box {
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+}
+
+.cas {
+  touch-action: none;
+}
